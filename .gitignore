@@ -24,3 +24,5 @@ test.txt
 **/nls.*.json
 **/*.nls.json
 **/*.nls.*.json
+
+.fake
